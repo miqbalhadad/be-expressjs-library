@@ -1,0 +1,49 @@
+# Node modules directory
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# Database files
+*.sqlite
+*.sqlite3
+
+# Build directories
+dist/
+build/
+
+# Test coverage reports
+coverage/
+
+# Temporary files
+tmp/
+temp/
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Swagger auto-generated files
+swagger.json
+
+# Ignore specific test result files
+test-results/
+
+# Miscellaneous
+*.bak
+*.backup
+
+# Ignore the .env.test file used for testing purposes
+.env.test
